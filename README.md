@@ -20,6 +20,6 @@ I'm always looking for new things to learn. Currently, I'm focused on:
 - Enhancing my frontend development skills with React.
 
 ## 📫 Contact
-You can find me on LinkedIn :(https://www.linkedin.com/in/haf%C3%AEz-boukari-573604253/) or reach out via [Email]: (hafizinovus@gmail.com).
+You can reach me via email: hafizinovus@gmail.com.
 
 Thanks for visiting my profile!
